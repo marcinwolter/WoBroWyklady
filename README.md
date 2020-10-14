@@ -1,1 +1,1 @@
-# WoBroWyklady
+# WoBroWyklady - wykłady prof. Broniowskiego
